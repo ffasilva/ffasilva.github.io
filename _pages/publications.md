@@ -22,7 +22,7 @@ Linearization Based on Dual Quaternions.” In *2016 XIII Latin American Robotic
 Brazilian Robotics Symposium (LARS/SBR)*, 293–98. IEEE. doi: [10.1109/LARS-SBR.2016.56](https://doi.org/10.1109/LARS-SBR.2016.56)
 
 ### Peer-reviewed extended abstracts
-  * **F. F. A. Silva** and B. V. Adorno. 2019. “Wrench Control Based on Dual Quaternion Algebra.” In *Workshop on Applications of Dual Quaternion Algebra to Robotics*, 1–2. doi: [10.5281/zenodo.3566650](https://doi.org/10.5281/zenodo.3566650).
+  * **F. F. A. Silva** and B. V. Adorno. 2019. “Wrench Control Based on Dual Quaternion Algebra.” In *19th International Conference on Advanced Robotics - Workshop on Applications of Dual Quaternion Algebra to Robotics*, 1–2. doi: [10.5281/zenodo.3566650](https://doi.org/10.5281/zenodo.3566650).
 
 ### Journal preprints
   * **F. F. A. Silva** and B. V. Adorno. 2022. “Dynamic Modeling of Branched Robots using Modular Composition.” arXiv: [2208.01795](http://arxiv.org/abs/2208.01795).

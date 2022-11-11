@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frederico Fernandes Afonso Silva, Ph.D. in Robotics"
+title                    : "Frederico Fernandes Afonso Silva - Ph.D. in Robotics"
 title_separator          : "-"
 name                     : &name "Frederico F. A. Silva"
 description              : &description "Postdoctoral Fellow in Robotics"
