@@ -20,7 +20,7 @@ redirect_from:
 Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/Master_Thesis_Frederico_Afonso.pdf))
 * BS in Control and Automation Engineering, 2015
   * [Federal University of Minas Gerais](https://ufmg.br/), Brazil
-  * Thesis title: Implementação de um Algoritmo de Visão Computacional para Reconhecimento de Tomadas Elétricas ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/Monografia_Frederico.pdf))
+  * Thesis title: Implementation of a Machine Vision Algorithm for Electrical Outlet Recognition (pt-BR: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/Monografia_Frederico.pdf))
 * VTE in Mechatronics, 2008
   * [Federal Center of Technical Education of Minas Gerais](https://www.cefetmg.br/), Brazil
 
