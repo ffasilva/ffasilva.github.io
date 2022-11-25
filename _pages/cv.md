@@ -37,8 +37,11 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 
 ### Teaching experience
 
-  * Coordinator of the Teaching Assistant team of Computer Programming, 06/2013 – 06/2015, Federal University of Minas Gerais, Brazil
-  * Teaching Assistant team of Computer Programming, 11/2012 – 06/2013, Federal University of Minas Gerais, Brazil
+  * Teaching Assistant of Robotic Manipulators (undergraduate students), 02/2019 – 07/2019, Federal University of Minas Gerais, Brazil
+  * Teaching Assistant of Laboratory of Projects III (undergraduate students), 08/2018 – 12/2018, Federal University of Minas Gerais, Brazil
+  * Teaching Assistant of Laboratory of Projects III (undergraduate students), 02/2016 – 07/2016, Federal University of Minas Gerais, Brazil
+  * Coordinator of the Teaching Assistant team of Computer Programming (undergraduate students), 06/2013 – 06/2015, Federal University of Minas Gerais, Brazil
+  * Teaching Assistant of Computer Programming (undergraduate students), 11/2012 – 06/2013, Federal University of Minas Gerais, Brazil
 
 ### Boards, committees and positions of trust
 
