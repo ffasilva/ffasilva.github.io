@@ -24,9 +24,14 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 * VTE in Mechatronics, 2008
   * [Federal Center of Technical Education of Minas Gerais](https://www.cefetmg.br/), Brazil
 
+### Academic Experience
+
+  * Postdoctoral Research Associate, 02/2023 – Present (TUM–Germany)
+  * Postdoctoral Research Associate, 08/2022 – 02/2023 (UFMG–Brazil)
+
 ### Funding received
 
-  * Postdoctoral Fellow, 08/2022 – Present (CNPq–Brazil)
+  * Postdoctoral Fellow, 08/2022 – 02/2023 (CNPq–Brazil)
     * Funding Agency: National Council of Technological and Scientiﬁc Development ([CNPq](https://www.gov.br/cnpq/pt-br))
   * Ph.D. Study Fellowship, 08/2018 – 01/2022 (PPGEE–Brazil)
     * Funding Agency: The Coordination for the Improvement of Higher Educational Personnel of Brazil
