@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+## Education
 
 * Ph.D. in Electrical Engineering with focus on Robotics, 2022
   * [Department of Electrical Engineering](https://www.ppgee.ufmg.br/), Federal University of Minas Gerais, Brazil
@@ -26,26 +26,28 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 
 ---
 
-### Funding received
+## Funding received
 
-  * Postdoctoral Fellow, 08/2022 – 02/2023 (CNPq–Brazil)
+### Brazil
+
+  * [08/2022–02/2023] Postdoctoral Fellow
     * Funding Agency: National Council of Technological and Scientiﬁc Development ([CNPq](https://www.gov.br/cnpq/pt-br))
-  * Ph.D. Study Fellowship, 08/2018 – 01/2022 (PPGEE–Brazil)
+  * [08/2018–01/2022] Ph.D. Study Fellowship
     * Funding Agency: The Coordination for the Improvement of Higher Educational Personnel of Brazil
 ([CAPES](https://www.gov.br/capes/pt-br))
-  * M.Sc. Study Fellowship, 08/2015 – 06/2017 (PPGEE–Brazil)
+  * [08/2015–06/2017] M.Sc. Study Fellowship
     * Funding Agency: The Coordination for the Improvement of Higher Educational Personnel of Brazil
 ([CAPES](https://www.gov.br/capes/pt-br))
 
 ---
 
-### Academic Experience
+## Academic Experience
 
-## Technical University of Munich (Germany)
+### Technical University of Munich (Germany)
 
   * [02/2023–Present] Postdoctoral Research Associate
 
-## Federal University of Minas Gerais (Brazil)
+### Federal University of Minas Gerais (Brazil)
 
   * [08/2022–02/2023] Postdoctoral Research Associate
   * [02/2019–07/2019] Teaching Assistant of Robotic Manipulators (undergraduate students)
@@ -56,25 +58,25 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 
 ---
 
-### Boards, committees and positions of trust
+## Boards, committees and positions of trust
 
-## Federal University of Minas Gerais (Brazil)
+### Federal University of Minas Gerais (Brazil)
 
   * [10/2017–03/2020] Board member of the Graduate Program in Electrical Engineering (Student Representative)
   * [05/2016–05/2017] Board member of the Graduate Program in Electrical Engineering (Student Representative)
 
-## Participation in Evaluation Boards
+### Participation in Evaluation Boards
   * BS theses: participation in the evaluation board for one undergraduate ﬁnal project (Federal University of Minas Gerais, Brazil)
 
 ---
 
-### Editorial and review activities
+## Editorial and review activities
 
   * [Web of Science](https://www.webofscience.com/wos/author/record/364088)
 
 ---
 
-### Non-academic experience
+## Non-academic experience
 
   * [09/2014–09/2015] Internship on Control and Automation Engineering, Laboratory of Transports (Nucletrans), Federal University of Minas Gerais, Brazil
   * [04/2009–10/2009] Internship on Mechatronics Vocational and Technical Education, Destec, Minas Gerais, Brazil
