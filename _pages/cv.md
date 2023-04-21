@@ -24,10 +24,7 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 * VTE in Mechatronics, 2008
   * [Federal Center of Technical Education of Minas Gerais](https://www.cefetmg.br/), Brazil
 
-### Academic Experience
-
-  * Postdoctoral Research Associate, 02/2023 – Present (TUM–Germany)
-  * Postdoctoral Research Associate, 08/2022 – 02/2023 (UFMG–Brazil)
+---
 
 ### Funding received
 
@@ -40,27 +37,44 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
     * Funding Agency: The Coordination for the Improvement of Higher Educational Personnel of Brazil
 ([CAPES](https://www.gov.br/capes/pt-br))
 
-### Teaching experience
+---
 
-  * Teaching Assistant of Robotic Manipulators (undergraduate students), 02/2019 – 07/2019, Federal University of Minas Gerais, Brazil
-  * Teaching Assistant of Laboratory of Projects III (undergraduate students), 08/2018 – 12/2018, Federal University of Minas Gerais, Brazil
-  * Teaching Assistant of Laboratory of Projects III (undergraduate students), 02/2016 – 07/2016, Federal University of Minas Gerais, Brazil
-  * Coordinator of the Teaching Assistant team of Computer Programming (undergraduate students), 06/2013 – 06/2015, Federal University of Minas Gerais, Brazil
-  * Teaching Assistant of Computer Programming (undergraduate students), 11/2012 – 06/2013, Federal University of Minas Gerais, Brazil
+### Academic Experience
+
+## Technical University of Munich (Germany)
+
+  * [02/2023–Present] Postdoctoral Research Associate
+
+## Federal University of Minas Gerais (Brazil)
+
+  * [08/2022–02/2023] Postdoctoral Research Associate
+  * [02/2019–07/2019] Teaching Assistant of Robotic Manipulators (undergraduate students)
+  * [08/2018–12/2018] Teaching Assistant of Laboratory of Projects III (undergraduate students)
+  * [02/2016–07/2016] Teaching Assistant of Laboratory of Projects III (undergraduate students)
+  * [06/2013–06/2015] Coordinator of the Teaching Assistant team of Computer Programming (undergraduate students)
+  * [11/2012–06/2013] Teaching Assistant of Computer Programming (undergraduate students)
+
+---
 
 ### Boards, committees and positions of trust
 
-  * Board member of the Graduate Program in Electrical Engineering (Student Representative), 10/2017 – 03/2020, Federal University of Minas Gerais, Brazil
-  * Board member of the Graduate Program in Electrical Engineering (Student Representative), 05/2015 – 05/2017, Federal University of Minas Gerais, Brazil
-  * Participation in Evaluation Boards
-    * BS theses: participation in the evaluation board for one undergraduate ﬁnal project (Federal University of
-Minas Gerais, Brazil)
+## Federal University of Minas Gerais (Brazil)
+
+  * [10/2017–03/2020] Board member of the Graduate Program in Electrical Engineering (Student Representative)
+  * [05/2016–05/2017] Board member of the Graduate Program in Electrical Engineering (Student Representative)
+
+## Participation in Evaluation Boards
+  * BS theses: participation in the evaluation board for one undergraduate ﬁnal project (Federal University of Minas Gerais, Brazil)
+
+---
 
 ### Editorial and review activities
 
   * [Web of Science](https://www.webofscience.com/wos/author/record/364088)
 
+---
+
 ### Non-academic experience
 
-  * Internship on Control and Automation Engineering, 09/2014 – 09/2015, Laboratory of Transports (Nucletrans), Federal University of Minas Gerais, Brazil
-  * Internship on Mechatronics Vocational and Technical Education, 04/2009 – 10/2009, Destec, Minas Gerais, Brazil
+  * [09/2014–09/2015] Internship on Control and Automation Engineering, Laboratory of Transports (Nucletrans), Federal University of Minas Gerais, Brazil
+  * [04/2009–10/2009] Internship on Mechatronics Vocational and Technical Education, Destec, Minas Gerais, Brazil
