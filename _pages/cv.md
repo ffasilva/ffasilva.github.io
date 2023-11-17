@@ -28,6 +28,11 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 
 ## Funding received
 
+### United Kingdom
+
+  * [10/2023–10/2025] Marie Curie Postdoctoral Fellowship
+    * Funding Agency: UK Research and Innovation ([UKRI](https://www.ukri.org/)) - EP/Y024508/1
+
 ### Brazil
 
   * [08/2022–02/2023] Postdoctoral Fellow
@@ -43,9 +48,13 @@ Quaternion Algebra ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](ht
 
 ## Academic Experience
 
+### University of Manchester (United Kingdom)
+
+  * [10/2023–Present] Marie Curie Fellow
+
 ### Technical University of Munich (Germany)
 
-  * [02/2023–Present] Postdoctoral Research Associate
+  * [02/2023–09/2023] Postdoctoral Research Associate
 
 ### Federal University of Minas Gerais (Brazil)
 
