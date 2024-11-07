@@ -31,3 +31,13 @@ Brazilian Robotics Symposium (LARS/SBR)*, 293–98. IEEE. doi: [10.1109/LARS-SBR
   * **F. F. A. Silva**. 2022. "Dynamic Modeling of Robotic Systems: A Dual Quaternion Formulation." *Ph.D Thesis*. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil. ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/PhD_Thesis_Frederico_Afonso.pdf))
   * **F. F. A. Silva**. 2017. "Whole-Body Control of a Mobile Manipulator Using Feedback Linearization and Dual Quaternion Algebra." *Master's dissertation*. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil. ([<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/Master_Thesis_Frederico_Afonso.pdf))
   * **F. F. A. Silva**. 2015. "Implementation of a Machine Vision Algorithm for Electrical Outlet Recognition." *Bachelor's Thesis*. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil. (pt-BR: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>](https://ffasilva.github.io/files/Monografia_Frederico.pdf))
+
+  <!-- _pages/publications.md -->
+### Bibliography
+<div class="publications">
+
+{% bibliography --file bibliography %}
+
+</div>
+
+<br>
