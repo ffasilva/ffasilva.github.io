@@ -31,16 +31,6 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
     color: green;
     font-style: italic;
   }
-
- /* Modify the background color */ 
- .navbar-custom {
-  background-color: dark; 
-  }
-
-  /* Modify text color */    
-  .navbar-custom .navbar-text { 
-      color: white; 
-  }
 }
 
 </style>
