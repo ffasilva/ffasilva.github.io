@@ -17,12 +17,12 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
   #group_unpublished div.bibbase_group i+span { display: none; }
   #group_incollection div.bibbase_group i+span { display: none; }
 
-  #group_article div.bibbase_group i:after { content: " Journal Articles" }
-  #group_inproceedings div.bibbase_group i:after { content: " Conference and Workshop Publications" }
-  #group_mastersthesis div.bibbase_group i:after { content: " Master's Thesis" }
+  #group_article div.bibbase_group i:after { content: "Peer-reviewed journal papers" }
+  #group_inproceedings div.bibbase_group i:after { content: "Peer-reviewed international conference papers" }
+  #group_mastersthesis div.bibbase_group i:after { content: "Master's Thesis" }
   #group_phdthesis div.bibbase_group i:after { content: " PhD Thesis" }
   #group_techreport div.bibbase_group i:after { content: " Technical Report" }
-  #group_unpublished div.bibbase_group i:after { content: " Unpublished" }
+  #group_unpublished div.bibbase_group i:after { content: " Preprints" }
   #group_incollection div.bibbase_group i:after { content: " In Collection" }
     
 .note {
