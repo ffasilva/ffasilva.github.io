@@ -31,6 +31,11 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
     color: green;
     font-style: italic;
   }
+
+  /* Modify the background color */              
+  .navbar-custom { 
+      background-color: #1d222b; 
+  }
 }
 
 </style>
