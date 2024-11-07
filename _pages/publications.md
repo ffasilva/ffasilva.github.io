@@ -33,10 +33,9 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
   }
 
   /* Modify the background color */              
-  .navbar { 
+  .navbar-custom { 
       background-color: #1d222b; 
   }
-}
 
 </style>
 
