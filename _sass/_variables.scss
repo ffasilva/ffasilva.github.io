@@ -90,12 +90,12 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #1d222b;//mix(#000, $info-color, 15%) !default; //$info-color;
-$link-color-hover           : #1d222b;//mix(#000, $link-color, 25%) !default; //mix(#000, $link-color, 25%);
-$link-color-visited         : #1d222b;//mix(#fff, $link-color, 15%) !default; //mix(#fff, $link-color, 25%);
-$masthead-link-color        : #1d222b;//$primary-color !default; //$primary-color;
-$masthead-link-color-hover  : #1d222b;//mix(#000, $primary-color, 25%) !default; //mix(#000, $primary-color, 25%);
-$navicon-link-color-hover   : #1d222b;//mix(#fff, $primary-color, 75%) !default; // new inclusion
+$link-color                 : mix(#000, $info-color, 15%) !default; //$info-color;
+$link-color-hover           : mix(#000, $link-color, 25%) !default; //mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 15%) !default; //mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color !default; //$primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default; //mix(#000, $primary-color, 25%);
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default; // new inclusion
 
 
 /*
