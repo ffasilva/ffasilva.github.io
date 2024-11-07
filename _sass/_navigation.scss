@@ -380,9 +380,9 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #1d222b;//#fff;
+    color: #fff;
     font-size: $type-size-6;
-    background: #1d222b;//$primary-color;
+    background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: #1d222b;//$lighter-gray;
+      background: $lighter-gray;
     }
   }
 

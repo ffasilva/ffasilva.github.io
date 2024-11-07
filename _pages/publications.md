@@ -9,6 +9,7 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
 
 <style type="text/css">
 
+   /* Modify the type names */ 
   #group_article div.bibbase_group i+span { display: none; }
   #group_inproceedings div.bibbase_group i+span { display: none; }
   #group_mastersthesis div.bibbase_group i+span { display: none; }
@@ -24,10 +25,22 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
   #group_techreport div.bibbase_group i:after { content: " Technical Report" }
   #group_unpublished div.bibbase_group i:after { content: " Preprints" }
   #group_incollection div.bibbase_group i:after { content: " In Collection" }
-    
-.note {
+  
+  /* Modify the color of the notes */   
+  .note {
     color: green;
     font-style: italic;
+  }
+
+ /* Modify the background color */ 
+ .navbar-custom {
+  background-color: dark; 
+  }
+
+  /* Modify text color */    
+  .navbar-custom .navbar-text { 
+      color: white; 
+  }
 }
 
 </style>
