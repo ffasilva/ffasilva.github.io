@@ -33,7 +33,7 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
   }
 
   .dropdown-content {
-    background-color: #f9f9f9;
+    background-color: #1d222b;
   }
 
 </style>
