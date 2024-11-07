@@ -32,4 +32,4 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
 
 </style>
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ffasilva/ffasilva.github.io/master/files/bibliography.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ffasilva/ffasilva.github.io/master/files/bibliography.bib&nocache=1"></script> 
