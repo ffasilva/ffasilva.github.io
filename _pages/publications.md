@@ -31,6 +31,22 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
     color: green;
     font-style: italic;
   }
+
+  .bibbase_group {
+    /* background-color: #D0D0E0; */
+    background-color: #1d222b;
+    /* mix-blend-mode: luminosity; */
+    font-style: italic;
+    font-size: larger;
+    /* text-shadow: 0px 0px 3px #FFFFFF; */
+    border-radius: 4px 4px 4px 4px;
+    -moz-border-radius: 4px 4px 4px 4px;
+    -webkit-border-radius: 4px;
+    padding: 5px 40px 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
 }
 
 </style>
