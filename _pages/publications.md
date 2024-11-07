@@ -26,15 +26,16 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
   #group_unpublished div.bibbase_group i:after { content: " Preprints" }
   #group_incollection div.bibbase_group i:after { content: " In Collection" }
   
-  /* Modify the color of the notes */   
+  /* Modify the color of the notes */
   .note {
     color: green;
     font-style: italic;
   }
 
-  .dropdown-content {
+  /* Modify the color of the notes (doesn't work) */
+  /*.dropdown-content {
     background-color: #1d222b;
-  }
+  }*/
 
 </style>
 
