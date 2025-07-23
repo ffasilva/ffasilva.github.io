@@ -1,19 +1,36 @@
 ---
 layout: archive
-title: "Research Statement and CV"
-permalink: /research-statement-and-cv/
+title: "Robotics by first principles"
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research
 ---
 
 {% include base_path %}
 
-Here you can find a brief version of my research statement. Alternatively, you can download a more comprehensive version of it (work in progress) and my [updated CV](https://ffasilva.github.io/files/frederico_silva_cv.pdf) as PDF files.
+<!-- Remove all borders from all tables in this page -->
+<style>
+  table {
+    border: none !important;
+  }
 
-## Short research statement
+  table td {
+    border: none !important;
+  }
+
+  table th {
+    border: none !important;
+  }
+
+  table thead {
+    border: none !important;
+  }
+</style>
 
 My work focuses on the fundamentals of robotics, guided by the first principles of mathematics and mechanics. I am interested in developing model and control strategies that can exploit the structure and geometry of the environment to allow intuitive definition of the problem and ensure the safe execution of the task. The developed approaches can be applied to multiple classes of robotic platforms, ranging from simple robotic manipulators to complex self-reconfigurable robots assembling branched kinematic chains, to solve problems in unstructured and dynamic environments.
+
+You can download a more comprehensive version of my research statement in PDF format (work in progress).
 
 ### Modular dynamic modeling
 
@@ -32,6 +49,10 @@ In addition to enabling more fluid and human-like movements, whole-body control 
 
 I have worked with whole-body control of nonholonomic mobile manipulators using feedback linearization and dual quaternion algebra. I have also explored the application of dynamic models obtained through the DMC in wrench-driven end-effector control using a strategy based on attractors to guide the end-effectors of branched robots to desired poses. In common, all strategies employ task-level specifications that lead to intuitive definition of the goals, an essential feature for any robotic application.
 
+| <video width="100%" height="10%" controls> <source src="https://ffasilva.github.io/videos/jint_video.mp4" type="video/mp4"> </video>|
+|:--:|
+| *Whole-body control of a nonholonomic mobile manipulator. We only need to specify a reference for the end-effector in the **task space**; the controller handles arm and base simultaneously.*|
+
 |**References**|
 |[Silva, Frederico Fernandes Afonso, and Bruno Vilhena Adorno. ‘Whole-Body Control of a Mobile Manipulator Using Feedback Linearization and Dual Quaternion Algebra’. Journal of Intelligent & Robotic Systems 91, no. 2 (3 August 2018): 249–62. https://doi.org/10.1007/s10846-017-0686-3](https://doi.org/10.1007/s10846-017-0686-3)|
 |[Silva, Frederico Fernandes Afonso, and Bruno Vilhena Adorno. ‘Dynamic Modeling of Branched Robots Using Modular Composition’. Under review in the IEEE Transactions on Robotics, 22 July 2024. http://arxiv.org/abs/2208.01795](http://arxiv.org/abs/2208.01795)|
@@ -47,7 +68,7 @@ When applied to a linearly constrained quadratic programming problem, VFIs ensur
 
 ### Bi-manual manipulation
 
-The cooperative dual task space (CDTS) [4] simplifies the representation of bi-manual tasks by defining a relative reference frame, which can be used to coordinate the relative motion of the two robotic arms performing the task, and an absolute frame, which can be attached to the object being manipulated and used to specify its motion. The CDTS is also applicable to multi-manual manipulation tasks by defining one relative frame for each pair of arms and one absolute frame.
+The cooperative dual task space (CDTS) simplifies the representation of bi-manual tasks by defining a relative reference frame, which can be used to coordinate the relative motion of the two robotic arms performing the task, and an absolute frame, which can be attached to the object being manipulated and used to specify its motion. The CDTS is also applicable to multi-manual manipulation tasks by defining one relative frame for each pair of arms and one absolute frame.
 
 We have been recently working on an extension of this formalism to allow a more flexible specification of the relative and absolute frames according to the task. For instance, a leader-follower configuration better suits the task of hammering a nail, whereas a distributed configuration is desirable when carrying an object. Additionally, we are also taking into consideration the wrenches involved in the manipulation and using VFIs to impose safety constraints.
 
