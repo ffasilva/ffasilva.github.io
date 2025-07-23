@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 This list should be up-to-date, but don't trust me on this. In case you don't find what you are looking for, check my research profiles on the left. You can also find my preprints at [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Silva%2C+F+F+A) and download my theses as PDF files:
-* Ph.D. thesis: [Dynamic Modeling of Robotic Systems: A Dual Quaternion Formulation](https://ffasilva.github.io/files/PhD_Thesis_Frederico_Afonso.pdf)
-* M.Sc. dissertation: [Whole-Body Control of a Mobile Manipulator Using Feedback Linearization and Dual
-Quaternion Algebra](https://ffasilva.github.io/files/Master_Thesis_Frederico_Afonso.pdf)
-* BS thesis: [Implementation of a Machine Vision Algorithm for Electrical Outlet Recognition](https://ffasilva.github.io/files/Monografia_Frederico.pdf) (pt-BR)
+
+|Degree|Title|
+|:--:|:--|
+|Ph.D.|[Dynamic Modeling of Robotic Systems: A Dual Quaternion Formulation](https://ffasilva.github.io/files/PhD_Thesis_Frederico_Afonso.pdf)|
+|M.Sc.|[Whole-Body Control of a Mobile Manipulator Using Feedback Linearization and Dual Quaternion Algebra](https://ffasilva.github.io/files/Master_Thesis_Frederico_Afonso.pdf)|
+|B.Sc.|[Implementation of a Machine Vision Algorithm for Electrical Outlet Recognition](https://ffasilva.github.io/files/Monografia_Frederico.pdf) (pt-BR)|
 
 <style type="text/css">
 
