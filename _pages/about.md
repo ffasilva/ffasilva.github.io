@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,4 @@ I am a Marie Curie Fellow at the University of Manchester, where I develop the R
 
 I received my BS degree (2015) in Control and Automation Engineering, my MS degree (2017) in Electrical Engineering, and my Ph.D. (2022) degree in Electrical Engineering from [UFMG](https://ufmg.br/).
 
-### Some of my videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KVtedmIbOSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can download my research statement (work in progress) and my [updated CV](https://ffasilva.github.io/files/frederico_silva_cv.pdf) as PDF files.
