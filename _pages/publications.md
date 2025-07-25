@@ -21,14 +21,26 @@ This list should be up-to-date, but don't trust me on this. In case you don't fi
     font-style: italic;
   }
 
-  /* Modify the color of the notes (doesn't work) */
-  /*.dropdown-content {
-    background-color: #1d222b;
-  }*/
+  /* Modify the dropdown menu */
+  .nav a {
+    background-color: #2c323d !important;
+    border: 0px solid #2c323d !important;
+  }
+
+  /* Modify effects when hovering the dropdown menu */
+  .nav a:hover {
+    background-color: #1c2330 !important;
+  }
+
+  /* Modify the color of the search bar */
+  .nav input {
+    background-color: #2c323d !important;
+    color: #ffffff !important;
+  }
 
 </style>
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ffasilva/ffasilva.github.io/master/files/bibliography.bib&jsonp=1&group0=custom_type&authorFirst=1&sort=-year&showSearch=true&hidemenu=true&css=ffasilva.github.io/_sass/_bibbase.css&folding=0&nocache=1"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ffasilva/ffasilva.github.io/master/files/bibliography.bib&jsonp=1&group0=custom_type&authorFirst=1&sort=-year&showSearch=true&css=ffasilva.github.io/_sass/_bibbase.css&folding=0&nocache=1"></script>
 
 <!---
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/ffasilva/ffasilva.github.io/master/files/bibliography.bib&jsonp=1&css=ffasilva.github.io/_sass/_bibbase.css&nocache=1"></script>
