@@ -57,7 +57,7 @@ I have worked with whole-body control of nonholonomic mobile manipulators using 
 |[Silva, Frederico Fernandes Afonso, and Bruno Vilhena Adorno. ‘Whole-Body Control of a Mobile Manipulator Using Feedback Linearization and Dual Quaternion Algebra’. Journal of Intelligent & Robotic Systems 91, no. 2 (3 August 2018): 249–62. https://doi.org/10.1007/s10846-017-0686-3](https://doi.org/10.1007/s10846-017-0686-3)|
 |[Silva, Frederico Fernandes Afonso, and Bruno Vilhena Adorno. ‘Dynamic Modeling of Branched Robots Using Modular Composition’. Under review in the IEEE Transactions on Robotics, 22 July 2024. http://arxiv.org/abs/2208.01795](http://arxiv.org/abs/2208.01795)|
 
-### Geometric representation of the environment and vector field inequalities
+<h3 id="VFIs">Geometric representation of the environment and vector field inequalities</h3>
 
 By employing a geometric representation of the environment, we can define both restricted zones that must be avoided by the robot, such as regions too close to a moving obstacle, and zones of interest for a task, such as a surface on which to place a cup. Given these, vector field inequalities (VFIs) provide a strategy to impose dynamic active constraints on robots. In contrast to potential fields, VFIs do not affect motions tangential to these zones. The only requirements are analytical expressions for the distance and distance derivatives between different relevant geometric primitives and a Jacobian relating those to the velocities of the robot joints.
 
