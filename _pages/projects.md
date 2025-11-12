@@ -44,7 +44,7 @@ Those are the projects I am currently leading or participating in.
 
 ## Robotic Laser Cutting
 
-This project aims to develop adaptive control strategies for robotic laser cutting with applications to nuclear decommissioning. Adaptive control is used to estimate the laser torch's pose and [vector field inequalities](https://ffasilva.github.io/research#VFIs) prevent collisions with the table and the box.
+This project aims to develop adaptive control strategies for robotic laser cutting with applications to nuclear decommissioning. Adaptive control is used to estimate the laser torch's pose and [vector field inequalities](https://ffasilva.github.io/research/#VFIs) prevent collisions with the table and the box.
 
 
 | <video width="80%" autoplay> <source src="https://ffasilva.github.io/videos/rlc_circle.mp4" type="video/mp4"> Your browser does not support HTML video. </video> |
