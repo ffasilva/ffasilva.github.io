@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Active Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -42,9 +42,24 @@ table th:nth-of-type(4) {
 
 Those are the projects I am currently leading or participating in.
 
+## Robotic Laser Cutting
+
+This project aims to develop adaptive control strategies for robotic laser cutting with applications to nuclear decommissioning. Adaptive control is used to estimate the laser torch's pose and [vector field inequalities](https://ffasilva.github.io/research#VFIs) prevent collisions with the table and the box.
+
+
+| <video width="80%" autoplay> <source src="https://ffasilva.github.io/videos/rlc_circle.mp4" type="video/mp4"> Your browser does not support HTML video. </video> |
+|:--:|
+| *Robotic manipulator UR3 following a circular trajectory to cut a box. Adaptive control is used to estimate the laser torch's pose. On the real robot, a camera will be used to retrieve this information.* |
+
+For the experiments, a camera will be used to track the laser torch and the box; thus, allowing the system to react to changes in the environment.
+
+# Past projects
+
+Those are the projects I have been involved in the past.
+
 ## REINE
 
-Reconfigurable Robots for Inhospitable Environments (REINE) is a Marie Curie Postdoctoral Fellowship project under the UKRI Horizon Europe guarantee funding ([EP/Y024508/1](https://app.dimensions.ai/details/grant/grant.13905684)). This project is being developed by Dr. Frederico Fernandes Afonso Silva, with the supervision of Dr. Bruno Vilhena Adorno at the University of Manchester.
+Reconfigurable Robots for Inhospitable Environments (REINE) was a Marie Curie Postdoctoral Fellowship project under the UKRI Horizon Europe guarantee funding ([EP/Y024508/1](https://app.dimensions.ai/details/grant/grant.13905684)). This project was developed by Dr. Frederico Fernandes Afonso Silva, with the supervision of Dr. Bruno Vilhena Adorno at the University of Manchester.
 
 ### Modular dynamic modeling
 
