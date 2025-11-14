@@ -1,31 +1,44 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="en" class="no-js">
   <head>
     {% include head.html %}
-    {% include head/custom.html %}
   </head>
 
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+  <body class="page">
+  <div class="site-wrapper">
+    <div id="header-wrapper">
+      {% include browser-upgrade.html %}
+      {% include masthead.html %}
     </div>
 
+    <div id="page-wrapper">
+      <div class="page-content">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </div>
+
+    <!-- Load theme JS normally -->
     {% include scripts.html %}
+
+    <!-- Your custom dropdown JS -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll('.has-dropdown > .nav-link').forEach(function (link) {
+          link.addEventListener('click', function (e) {
+            if (window.innerWidth < 900) {
+              e.preventDefault();
+              const menu = this.parentElement.querySelector('.dropdown-menu');
+              if (menu) {
+                menu.style.display = (menu.style.display === "block") ? "none" : "block";
+              }
+            }
+          });
+        });
+      });
+    </script>
 
   </body>
 </html>

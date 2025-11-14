@@ -3,7 +3,13 @@
    ========================================================================== */
 
 #main {
-  @include container;
+  //@include container;
+
+  width: 100%;           // full width
+  max-width: 1140px;     // optional readable limit
+  margin: 2em auto 0;    // centered horizontally
+  padding: 0 1.5em;      // inner padding
+
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
@@ -17,20 +23,18 @@
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
-  }
-
+  //@include breakpoint($large) {
+    //@include span(10 of 12 last);
+    //@include prefix(0.5 of 12);
+    //@include suffix(2 of 12);
+  //}
+  
   .page__inner-wrap {
-    @include full();
-
-    .page__content,
-    .page__meta,
-    .page__share {
-      @include full();
-    }
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    padding-left: 15em;
   }
 }
 

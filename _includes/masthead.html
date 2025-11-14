@@ -4,18 +4,59 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button>
+          <div class="navicon"></div>
+        </button>
+
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+          <!-- SITE TITLE -->
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
+
+          <!-- MAIN NAVIGATION WITH DROPDOWNS -->
+          {% for item in site.data.navigation.main %}
+            {% assign has_children = item.children %}
+            {% if item.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+            <li class="
+                masthead__menu-item
+                {% if has_children %}has-dropdown{% endif %}
+              ">
+              
+              <a href="{{ domain }}{{ item.url | default: '#' }}" class="nav-link">
+                {{ item.title }}
+                {% if has_children %}
+                  <span class="dropdown-arrow">▾</span>
+                {% endif %}
+              </a>
+
+              {% if has_children %}
+                <ul class="dropdown-menu">
+                  {% for child in item.children %}
+                    {% if child.url contains 'http' %}
+                      {% assign domain = '' %}
+                    {% else %}
+                      {% assign domain = base_path %}
+                    {% endif %}
+
+                    <li>
+                      <a href="{{ domain }}{{ child.url }}" class="dropdown-item">
+                        {{ child.title }}
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+
+            </li>
           {% endfor %}
         </ul>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

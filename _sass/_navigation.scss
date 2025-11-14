@@ -364,6 +364,25 @@
   border-bottom: 1px solid $border-color;
 }
 
+/* Optional custom CSS */
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block; /* Show the dropdown on hover */
+}
+
+.nav__list .dropdown-menu {
+  min-width: 200px; /* Adjust the width of the dropdown */
+  display: none; /* Ensure dropdown is hidden by default */
+}
+
+.nav__list .dropdown-item {
+  padding: 8px 20px; /* Adjust padding for dropdown items */
+  background-color: #f8f9fa;
+}
+
+.nav__list .dropdown-item:hover {
+  background-color: #e9ecef;
+}
+
 
 /*
    Table of contents navigation
