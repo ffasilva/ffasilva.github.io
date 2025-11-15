@@ -468,17 +468,24 @@
   left: 50%; /*set the dropdown box to 50% of the parent link*/
   transform: translateX(-50%); /* offset the the dropdown box by 50% of its width */
   top: calc(100% + 4px);
-  background: #616c80; /*dropdown box color*/
+  background: #616c80;  /*dropdown box color*/
   border: 1px solid #616c80; /*dropdown box marging color*/
   list-style: none;
   padding: 0;
+  margin: 0;
   z-index: 9999;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-  width: auto; /* Let it adjust to content width, if needed */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  width: auto;
+  text-align: left;
+  box-sizing: border-box; /* Ensure padding and borders don't affect layout */
 }
 
 .greedy-nav .dropdown-menu li {
+  display: block;
   margin: 0;
+  padding: 0;
+  float: none;
+  position: static;
 }
 
 .greedy-nav .dropdown-item {
@@ -486,7 +493,9 @@
   padding: 8px 12px;
   color: mix(#fff, $link-color, 25%); /*dropdown text color*/
   white-space: nowrap;
-  font-weight: normal; /* Explicitly set font-weight */
+  font-weight: normal;
+  margin: 0; /* Explicitly reset margin */
+  box-sizing: border-box; /* Ensure padding doesn't affect layout */
 }
 
 .greedy-nav .dropdown-item:hover {
@@ -499,5 +508,3 @@
     display: block;
   }
 }
-
-/* Mobile behavior — controlled by JS */
