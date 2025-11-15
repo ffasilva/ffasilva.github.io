@@ -9,5 +9,5 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-    - title: "Active Projects"
+    - title: "Active"
       url: /projects/active_projects
