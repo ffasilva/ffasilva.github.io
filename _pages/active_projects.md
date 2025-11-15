@@ -42,7 +42,7 @@ table th:nth-of-type(4) {
 
 Those are the projects I am currently leading or participating in.
 
-## Robotic Laser Cutting
+<h2 id="RCL">Robotic Laser Cutting</h2>
 
 This project aims to develop adaptive control strategies for robotic laser cutting with applications to nuclear decommissioning. Adaptive control is used to estimate the laser torch's pose and [vector field inequalities](https://ffasilva.github.io/research/#VFIs) prevent collisions with the table and the box.
 
