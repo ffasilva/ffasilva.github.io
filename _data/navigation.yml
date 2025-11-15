@@ -11,3 +11,5 @@ main:
     children:
     - title: "Active"
       url: /projects/active_projects
+    - title: "Past"
+      url: /projects/past_projects
