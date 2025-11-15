@@ -43,7 +43,7 @@ table th:nth-of-type(4) {
 Here is a general overview of the projects I am currently leading or participating in, or have been involved in the past.
 
 
-| [<video width="70%" autoplay> <source src="https://ffasilva.github.io/videos/rlc_circle.mp4" type="video/mp4"> Your browser does not support HTML video. </video>](https://ffasilva.github.io/projects/active_projects/#RCL) | [![dmc-quadruped.jpg](https://ffasilva.github.io/images/dmc_quadruped.png)](https://ffasilva.github.io/projects/past_projects/#REINE) | 
+| [<video width="70%" autoplay> <source src="https://ffasilva.github.io/videos/rlc_circle.mp4" type="video/mp4"> Your browser does not support HTML video. </video>](https://ffasilva.github.io/projects/active_projects#RCL) | [![dmc-quadruped.jpg](https://ffasilva.github.io/images/dmc_quadruped.png)](https://ffasilva.github.io/projects/past_projects#REINE) | 
 |:--:|:--:|
 | *Robotic laser cutting using adaptive control.* | *Complex robots can be divided into subsystems to simplify modeling and control: meet the Dynamic Modular Composition (DMC) formalism.* |
 
